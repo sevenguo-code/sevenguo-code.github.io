@@ -1,6 +1,6 @@
 {
   "../../../../../private/tmp/Wangbiao_Guo_Sites_deps/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "_next/static/chunks/app-route-prefetch-policy-Dv6jJpZh.js",
+    "file": "_next/static/chunks/app-route-prefetch-policy-Duw5-FLz.js",
     "name": "app-route-prefetch-policy",
     "src": "../../../../../private/tmp/Wangbiao_Guo_Sites_deps/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -9,7 +9,7 @@
     ]
   },
   "../../../../../private/tmp/Wangbiao_Guo_Sites_deps/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-D28J71Ij.js",
+    "file": "_next/static/chunks/layout-segment-context-qbrxPr0Y.js",
     "name": "layout-segment-context",
     "src": "../../../../../private/tmp/Wangbiao_Guo_Sites_deps/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -79,7 +79,7 @@
     ]
   },
   "app/art-gallery.tsx": {
-    "file": "_next/static/chunks/art-gallery-BYftVIf1.js",
+    "file": "_next/static/chunks/art-gallery-Dds4YUQB.js",
     "name": "art-gallery",
     "src": "app/art-gallery.tsx",
     "isDynamicEntry": true,
@@ -90,7 +90,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-CvASwwAL.js",
+    "file": "_next/static/chunks/index-ChwT3wpu.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
